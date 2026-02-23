@@ -33,7 +33,7 @@
 
 | Login | Home | Add Song | Detail Lagu |
 |-------|------|----------|-------------|
-| ![Login](assets/images/login.jpeg) | ![Home](assets/images/home.jpeg) | ![Add](assets/images/add_song.jpeg) | ![Detail](assets/images/detail.jpeg) |
+| ![Login](assets/images/login.jpeg) | ![Home](assets/images/home.png.jpeg) | ![Add](assets/images/add_song.jpeg) | ![Detail](assets/images/detail.jpeg) |
 | *Halaman login dengan Google/email* | *Daftar lagu dengan filter mood* | *Form tambah/edit lagu* | *Detail lengkap lagu* |
 
 *(Ganti placeholder di atas dengan screenshot aktual dari aplikasimu)*
