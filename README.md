@@ -97,4 +97,5 @@ cd harmonotes
   3. flutter build apk --release
 
   APK hasil build:
-  -build/app/outputs/flutter-apk/app-release.apk
+  - build/app/outputs/flutter-apk/app-release.apk
+  APK DOWNLOAD : https://drive.google.com/file/d/18UcD6BYtvIMD6P0-IodvTSEhvSS4_2QE/view?usp=sharing
