@@ -21,14 +21,12 @@
 ### 🔐 Autentikasi Aman
 - Login dengan Email/Password
 - Login cepat dengan Google Sign-In
-- Persistent login (tidak perlu login ulang setelah force close)
 - Proteksi data per-user di Firestore
 
 ### 🎨 UI/UX Modern
 - Desain Material 3 dengan warna khas Harmonotes (`#667eea`)
 - Pull-to-refresh native (swipe down untuk refresh data)
 - Animasi halus dan responsif di semua device
-- Dark mode friendly (mengikuti sistem)
 
 ---
 
