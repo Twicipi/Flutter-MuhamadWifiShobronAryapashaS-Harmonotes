@@ -91,9 +91,10 @@ cd harmonotes
   flutter pub get
 4. Jalankan di emulator/device:
   flutter run
-  Build APK Release
-  flutter clean
-  flutter pub get
-  flutter build apk --release
+### Build APK Release
+  1. flutter clean
+  2. flutter pub get
+  3. flutter build apk --release
 
-  APK hasil build: build/app/outputs/flutter-apk/app-release.apk
+  APK hasil build:
+  -build/app/outputs/flutter-apk/app-release.apk
