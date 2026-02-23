@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "486710737293",
+    "project_id": "harmonotes",
+    "storage_bucket": "harmonotes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486710737293:android:b2274290750fc11d8f25c4",
+        "android_client_info": {
+          "package_name": "com.example.song_journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486710737293-mnlvke5kvvc6gnjpqqnup12gk1up6mar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.song_journal",
+            "certificate_hash": "78c33277b7e962bc57792a0d741fd6a748517d34"
+          }
+        },
+        {
+          "client_id": "486710737293-clrdrvg53691ffsajiith4kr1qbj9dvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJWUvNP9Ie-qg_nnuAwEFaBdqN-kAe6VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486710737293-clrdrvg53691ffsajiith4kr1qbj9dvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
