@@ -65,7 +65,7 @@
 - **Security Rules**: Proteksi data per-user (hanya pemilik yang bisa akses)
 
 ### Arsitektur
-lib/
+1. lib/
 ├── models/ # Data models (Song, User)
 ├── providers/ # Business logic (AuthProvider, SongProvider)
 ├── services/ # Firebase & notification services
