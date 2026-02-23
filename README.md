@@ -16,7 +16,6 @@
 - **Achievement**: Notifikasi otomatis setiap menyelesaikan 3 lagu ("Mantap! 🎶 Kamu sudah menyelesaikan 3 lagu!")
 - **Daily Motivation**: Pesan inspirasi harian saat buka app pertama kali ("Hai! Ada ide lagu yang ingin diabadikan hari ini? 🎵")
 - **Inactivity Reminder**: Pengingat jika >1 jam tidak menulis lagu ("Sudah lama sejak lagu terakhir. Ada ide baru? ✨")
-- **Tanpa background task**: Notifikasi di-trigger saat buka app (hemat baterai, 100% reliable)
 
 ### 🔐 Autentikasi Aman
 - Login dengan Email/Password
