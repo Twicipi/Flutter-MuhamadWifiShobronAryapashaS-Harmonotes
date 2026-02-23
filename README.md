@@ -99,3 +99,4 @@ cd harmonotes
   APK hasil build:
   - build/app/outputs/flutter-apk/app-release.apk
   APK DOWNLOAD : https://drive.google.com/file/d/18UcD6BYtvIMD6P0-IodvTSEhvSS4_2QE/view?usp=sharing
+  PRESENTASI : https://drive.google.com/drive/folders/1FA5nEZdMUtEzIX1pHMUoM2ks3hHM_Dry?usp=sharing
